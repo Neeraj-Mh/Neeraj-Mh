@@ -175,7 +175,7 @@ I'm an **AI Product Manager and techno-functional Business Analyst** based in **
 
 <img src="https://streak-stats.demolab.com?user=Neeraj-Mh&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" width="49%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neeraj-Mh&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="Contribution graph" width="98%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neeraj-Mh&theme=tokyonight" alt="Contribution summary" width="98%"/>
 
 </div>
 
