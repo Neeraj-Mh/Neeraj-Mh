@@ -38,8 +38,6 @@
 
 ## 👋 About me
 
-<img align="right" src="assets/profile.png" width="210" alt="Neeraj Maheshwari"/>
-
 I'm an **AI Product Manager and techno-functional Business Analyst** based in **Bangalore**, with **14+ years** across product, business analysis and technology delivery. I work where **Agentic AI meets regulated banking**. I turn complex business needs into **governed AI products**: clear requirements, human-in-the-loop controls, deterministic fallbacks and measurable outcomes.
 
 - 🏦 **Now:** Product Manager at **Commonwealth Bank of Australia**, working across Agentic AI, Australian mortgage origination, construction lending and Murex Front Office
