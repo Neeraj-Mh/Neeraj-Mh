@@ -3,7 +3,7 @@
 <img src="assets/banner.svg" alt="Neeraj Maheshwari - AI Product Manager" width="100%"/>
 
 <a href="https://neeraj-mh.github.io/Portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=900&color=0F766E&center=true&vCenter=true&width=720&lines=Building+governed+Agentic+AI+for+banking;Australian+mortgages+%E2%80%A2+construction+lending+%E2%80%A2+drawdowns;Murex+Front+Office+%E2%80%A2+XVA%2FCVA+%E2%80%A2+DCM%2FECM;Algo+trading+specs%3A+TWAP+%E2%80%A2+VWAP+%E2%80%A2+POV+%E2%80%A2+SOR;Shipping+a+new+AI+agent+on+GitHub+every+day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=900&color=0F766E&center=true&vCenter=true&width=720&lines=Building+governed+Agentic+AI+for+banking;AI+invoice+%26+income+verification+for+home+loans;RAG+copilots+for+lending+operations;Core+Banking+%E2%80%A2+mortgages+%E2%80%A2+ISO+20022+payments;Building+AI+agents+with+Claude+Code+%26+MCP" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,7 +17,7 @@
 
 <img src="https://img.shields.io/badge/14%2B_Years-Product_%C2%B7_BA_%C2%B7_Technology-0B1F3A?style=flat-square" alt="14+ years"/>
 <img src="https://img.shields.io/badge/Agentic_AI-Multi--Agent_%C2%B7_HITL_%C2%B7_Guardrails-6D28D9?style=flat-square" alt="Agentic AI"/>
-<img src="https://img.shields.io/badge/Capital_Markets-Murex_%C2%B7_XVA_%C2%B7_Algo-1D4ED8?style=flat-square" alt="Capital markets"/>
+<img src="https://img.shields.io/badge/Banking-Mortgages_%C2%B7_Core_Banking_%C2%B7_Payments-1D4ED8?style=flat-square" alt="Banking domain"/>
 <img src="https://img.shields.io/badge/CBAP-IIBA_Certified-B45309?style=flat-square" alt="CBAP"/>
 <img src="https://img.shields.io/badge/Open_to-Collaboration-15803D?style=flat-square" alt="Open to collaboration"/>
 
@@ -38,13 +38,14 @@
 
 ## 👋 About me
 
-I'm an **AI Product Manager and techno-functional Business Analyst** based in **Bangalore**, with **14+ years** across product, business analysis and technology delivery. I work where **Agentic AI meets regulated banking**. I turn complex business needs into **governed AI products**: clear requirements, human-in-the-loop controls, deterministic fallbacks and measurable outcomes.
+I'm an **AI Product Manager and Technical Business Analyst** based in **Bangalore**, with **14+ years** delivering technology change in **banking, mortgage lending and fintech**. I plan, design and deliver **Agentic AI and GenAI products** end to end, under strict credit-policy, responsible-lending and model-risk guardrails: clear requirements, human-in-the-loop controls, deterministic fallbacks and measurable outcomes.
 
-- 🏦 **Now:** Product Manager at **Commonwealth Bank of Australia**, working across Agentic AI, Australian mortgage origination, construction lending and Murex Front Office
-- 🤖 **Building in public:** a new AI agent for banking, PM and BA use cases in [**ai-agent-lab**](https://github.com/Neeraj-Mh/ai-agent-lab), built with Gemini and Claude
-- 📈 **Domain depth:** DCM/ECM, syndicated loans, FX, IRS, fixed income, CCR, XVA/CVA, and algorithmic execution (TWAP, VWAP, POV, SOR)
+- 🏦 **Now:** Product Manager / Technical BA at **Commonwealth Bank of Australia**, shipping Agentic AI for home loans, construction lending and Core Banking workflows
+- 📉 **Impact:** an AI invoice verification platform that **cut manual verification effort by 34%**, plus AI income verification, RAG lending copilots and the launch of the **Home Guarantee Scheme (HGS/FHBG)**
+- 🤖 **Building in public:** AI agents for banking, PM and BA use cases in [**ai-agent-lab**](https://github.com/Neeraj-Mh/ai-agent-lab), built with the Claude API and Gemini, using Claude Code, MCP and Agent Skills
+- 📈 **Domain depth:** mortgage origination, Core Banking (CBS) lending modules, Mainframe HLS, cross-border payments and SWIFT ISO 20022, DCM/ECM, syndicated lending and Murex MX.3 FO
 - 🎓 **CBAP** (IIBA) · **MBA in Fintech**, BITS Pilani · **B.Tech in ECE**
-- 💬 **Ask me about:** agent guardrails and evaluation, construction-loan automation, Murex STP, or writing BRDs that engineers actually love
+- 💬 **Ask me about:** AI use-case prioritisation, agent guardrails and evaluation, construction-loan automation, or writing BRDs that engineers actually love
 
 ---
 
@@ -54,15 +55,15 @@ I'm an **AI Product Manager and techno-functional Business Analyst** based in **
   <tr>
     <td width="33%" valign="top">
       <h3>🤖 Agentic AI in banking</h3>
-      Multi-agent, multi-modal workflows with tool calling, source verification, human-in-the-loop checkpoints, guardrails and evaluation metrics, designed for credit-risk and responsible-lending compliance.
+      Multi-agent, multi-modal workflows, intelligent document processing and RAG copilots with tool calling, HITL checkpoints, guardrails and evaluation metrics (extraction accuracy, precision/recall, hallucination rate, STP rate).
     </td>
     <td width="33%" valign="top">
-      <h3>🏛️ Capital markets & Murex</h3>
-      Murex FO (Deal Capture, E-trade Pad, Static Data, MLC, GOM), front-to-back STP, CCR, XVA/CVA and PFE, plus clearing, collateral, SWIFT and settlement interfaces.
+      <h3>🏦 Mortgages, core banking & payments</h3>
+      Australian mortgage origination, construction loans and progressive drawdowns, CBS lending modules and Mainframe HLS, plus trade lifecycle, CCP clearing, ISO 20022 payments and Murex MX.3 FO.
     </td>
     <td width="33%" valign="top">
       <h3>🧭 Product & delivery</h3>
-      Discovery, roadmaps and backlog management. BRDs/FSDs, epics, user stories, acceptance criteria and RTMs. Trader UAT, defect triage and release sign-off in Agile/Scrum teams.
+      AI roadmaps, business cases and Jira backlogs. BRDs/FSDs, epics, user stories, acceptance criteria and RTMs. PoC-to-production delivery, UAT/SIT, presales and RFP/RFI bids.
     </td>
   </tr>
 </table>
@@ -73,11 +74,11 @@ I'm an **AI Product Manager and techno-functional Business Analyst** based in **
 
 | Period | Role | Highlights |
 |---|---|---|
-| **2023 – now** | **Product Manager**, Agentic AI, Mortgages & Capital Markets<br/><sub>Commonwealth Bank of Australia · Bangalore</sub> | Led **multi-modal agents** that reconcile builder invoices and stage claims against contracts. Designed **multi-agent progressive-drawdown validation** across loan systems, QS reports, builder licences and title records. Owns the **home-buying journey** (borrowing power, valuations, Home Guarantee Schemes) and **Murex FO STP** across FX, IRS, fixed income and money markets. |
-| **2017 – 2023** | **Senior Business Analyst**, Investment Banking & Algo Trading<br/><sub>HCL Technologies · Noida / Bangalore</sub> | Specified **TWAP, VWAP, POV, Implementation Shortfall and pairs-trading** strategies, plus backtesting and **smart order routing**. Mapped low-latency **OMS/EMS** integration with pre-trade risk controls. Wrote Murex FO, collateral, margin, PFE and CCP requirements. |
-| **2016 – 2017** | **Senior Test Automation Engineer**, Trading Systems<br/><sub>Cigniti Technologies · Hyderabad</sub> | Automated testing of algorithmic order execution, feed handlers, drop-copy and latency benchmarks |
-| **2015 – 2016** | **Automation Engineer**<br/><sub>Coforge · Greater Noida</sub> | Selenium regression frameworks across web, UI and API flows |
-| **2011 – 2014** | **Software Engineer**<br/><sub>Wipro Technologies · Bangalore</sub> | Enterprise web application development and releases |
+| **2023 – now** | **Product Manager / Technical BA**, Agentic AI, Banking, Mortgages & Fintech<br/><sub>Commonwealth Bank of Australia · Bangalore</sub> | Owns the **AI product roadmap** for mortgage and lending operations. Delivered an **Agentic AI invoice verification** platform (**34% less manual effort**), **AI income verification** for home loans on Mainframe HLS, **RAG copilots** over credit policy, and AI agents integrated with **CBS lending modules** via tool calling. Led the launch of the **Home Guarantee Scheme (HGS/FHBG)**. Set up guardrails, HITL checkpoints, golden datasets and Power BI model monitoring. |
+| **2017 – 2023** | **Senior Business Analyst**, Investment Banking, Payments & Trading Systems<br/><sub>HCL Technologies · Noida / Bangalore</sub> | Lead BA for front-to-back **trade lifecycle and STP** across DCM/ECM, fixed income, FX and money markets. **SWIFT ISO 20022** cross-border payments, CCR and margin requirements, Murex FO support. Led **presales, RFP/RFI bids and PoC demos** for global banking accounts. |
+| **2016 – 2017** | **Senior Test Automation Engineer**, Trading Systems & Integration<br/><sub>Cigniti Technologies · Hyderabad</sub> | Temenos T24 functional testing, API and gateway test automation, **UiPath RPA** bots for banking reconciliations, and sales-engineering PoCs |
+| **2015 – 2016** | **Automation Engineer**<br/><sub>Coforge · Greater Noida</sub> | Automated regression frameworks for backend interfaces, APIs and web services |
+| **2011 – 2014** | **Software Engineer**<br/><sub>Wipro Technologies · Bangalore</sub> | Enterprise web applications, SQL data validation and integration deployments |
 
 ---
 
@@ -136,14 +137,15 @@ I'm an **AI Product Manager and techno-functional Business Analyst** based in **
 <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Roo_%2F_Cline-0B1F3A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-B45309?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Claude_Code_%26_MCP-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 
 **Banking & capital markets**<br/>
 <img src="https://img.shields.io/badge/Murex_FO-1D4ED8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/XVA_%2F_CVA_%2F_CCR-0B1F3A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Core_Banking_%C2%B7_Mainframe_HLS-0B1F3A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DCM_%2F_ECM-B45309?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FX_%C2%B7_IRS_%C2%B7_Fixed_Income-0F766E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Algo_Trading_%C2%B7_SOR_%C2%B7_OMS%2FEMS-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SWIFT_ISO_20022-6D28D9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Mortgage_Origination-15803D?style=for-the-badge"/>
 
 **Tools & tech**<br/>
@@ -185,7 +187,7 @@ I'm an **AI Product Manager and techno-functional Business Analyst** based in **
 
 <div align="center">
 
-I'm always happy to talk about **Agentic AI in financial services**, **AI product governance**, and **capital-markets transformation**.
+I'm always happy to talk about **Agentic AI in financial services**, **AI product governance**, and **mortgage and core banking transformation**.
 
 <a href="mailto:neeraj.mh99@gmail.com"><img src="https://img.shields.io/badge/Say_hello-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/neeraj-maheshwari-5aa76918"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
